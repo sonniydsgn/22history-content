@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "de1a86fe09da5939",
+    "type": "split",
+    "children": [
+      {
+        "id": "8347046aa4473adb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "debb8edc2f6a881b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ru/chapters/chapter-1.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "115037188142a97d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ru/chapters/chapter-2.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f343e3b3db6e0620",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ab7a578d30d915d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04a4b90cf0772855",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0691b013be331f29",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6714328e173eb46a",
+    "type": "split",
+    "children": [
+      {
+        "id": "860c8f0df381f392",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d99a8543c697b7a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ru/chapters/chapter-2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "436cb8124ec0c293",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ru/chapters/chapter-2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a31018c9f401948",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ru/chapters/chapter-2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "115037188142a97d",
+  "lastOpenFiles": [
+    "ru/chapters/chapter-1.md",
+    "ru/chapters/chapter-2.md"
+  ]
+}

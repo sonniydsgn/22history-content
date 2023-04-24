@@ -1,0 +1,17 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "monospaceFontFamily": "JetBrains Mono",
+  "translucency": false,
+  "baseFontSize": 16,
+  "textFontFamily": "Inter",
+  "cssTheme": "",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength",
+    "supercharged-links-gen",
+    "minimal"
+  ],
+  "interfaceFontFamily": "Inter"
+}
